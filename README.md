@@ -1,6 +1,6 @@
 # Fakhriel Yusmana Shiddiq · Photography Portfolio
 
-![Portfolio Preview](assets/POTOPROFIL2.png)
+![Portfolio Preview](assets/marqueephoto/urphotolabelariel.webp)
 
 A high-end, interactive photography portfolio website built with modern web technologies. This project showcases a seamless blend of elegant design, smooth animations, and responsive layouts, tailored for creative professionals.
 
@@ -129,4 +129,5 @@ GitHub: @fakhrielyusmanashiddiq
 tiktok: @fakhriel.yusmana
 
 Made with ❤️ and a lot of coffee by Fakhriel Yusmana Shiddiq
+
 Bekasi, 2026
